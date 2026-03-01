@@ -122,7 +122,8 @@ Doors use two `BoxColliders` with different tags to detect which side the player
 ## How to Play
 
 ### Option 1 — Play the Build
-Download the `Game/` folder and run `4thTime.exe` (Windows).
+Download the standalone Windows build from the separate repository:  
+[**The Forbidden Papyrus — Game Build**](https://github.com/YOUR_USERNAME/Game)
 
 ### Option 2 — Open in Unity
 1. Install **Unity 6000.0.43f1** (or compatible version).
