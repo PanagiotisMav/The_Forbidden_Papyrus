@@ -123,7 +123,7 @@ Doors use two `BoxColliders` with different tags to detect which side the player
 
 ### Option 1 — Play the Build
 Download the standalone Windows build from the separate repository:  
-[**The Forbidden Papyrus — Game Build**](https://github.com/YOUR_USERNAME/Game)
+[**The Forbidden Papyrus — Game Build**](https://github.com/PanagiotisMav/The_Forbidden_Papyrus)
 
 ### Option 2 — Open in Unity
 1. Install **Unity 6000.0.43f1** (or compatible version).
